@@ -1,4 +1,6 @@
 # design-system-api
 
 # Objectif
-Api qui retourne toutes les propriétés HTML ou CSS nécessaire à la mise en place de l'UI design system.
+API qui retourne toutes les propriétés HTML ou CSS nécessaires à la mise en place de l'UI design system.
+
+# Installation

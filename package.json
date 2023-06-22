@@ -1,0 +1,19 @@
+{
+  "name": "design-system-api",
+  "version": "1.0.0",
+  "description": "NodeJS API to return HTML or CSS properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericHild/design-system-api.git"
+  },
+  "author": "Eric HILDEVERT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericHild/design-system-api/issues"
+  },
+  "homepage": "https://github.com/ericHild/design-system-api#readme"
+}
