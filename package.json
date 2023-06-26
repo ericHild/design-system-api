@@ -4,7 +4,7 @@
   "description": "NodeJS API to return HTML or CSS properties",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ericHild/design-system-api/issues"
   },
-  "homepage": "https://github.com/ericHild/design-system-api#readme"
+  "homepage": "https://github.com/ericHild/design-system-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-generator": "^4.16.1"
+  }
 }
