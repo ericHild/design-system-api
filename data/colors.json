@@ -1,0 +1,11 @@
+{
+    "primary": [
+        { "primary-500": "#FCE762"}
+    ],
+    "secondary": [
+        { "secondary-500": "#4F4789" }
+    ],
+    "tertiary": [
+        { "tertiary-500": "#FFB17A" }
+    ]
+}
