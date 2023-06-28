@@ -1,0 +1,11 @@
+{
+    "primary": [
+        { "primary-100": "#A9DEF9"}
+    ],
+    "secondary": [
+        { "secondary-100": "#FCF6BD" }
+    ],
+    "success": [
+        { "success-100": "#D0F4DE" }
+    ]
+}
