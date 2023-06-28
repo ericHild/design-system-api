@@ -1,11 +1,11 @@
 {
     "primary": [
-        { "primary-500": "#FCE762"}
+        { "primary-100": "#A9DEF9"}
     ],
     "secondary": [
-        { "secondary-500": "#4F4789" }
+        { "secondary-100": "#FCF6BD" }
     ],
-    "tertiary": [
-        { "tertiary-500": "#FFB17A" }
+    "success": [
+        { "success-100": "#D0F4DE" }
     ]
 }

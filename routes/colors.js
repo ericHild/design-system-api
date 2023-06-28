@@ -1,11 +1,11 @@
 const express = require('express');
 const router = express.Router();
 
-const colors = require('./../data/colors.json');
+const data = require('./../data/colors.json');
 
 /* GET colors listing. */
 router.get('/colors', function(req, res, next) {
-    res.send(colors);
+    res.send(data);
 });
 
 module.exports = router;
