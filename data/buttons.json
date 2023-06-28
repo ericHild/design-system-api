@@ -1,0 +1,17 @@
+{
+    "layout": [
+        { "width": "max-content" },
+        { "height": "32px" },
+        { "padding": "8px 24px" },
+        { "borderRadius": "20px" }
+    ],
+    "primary": [
+        { "color": "white" },
+        { "backgroundColor": "primary-100" }
+    ],
+    "secondary": [
+        { "color": "primary-100" },
+        { "backgroundColor": "transparent" },
+        { "borderColor": "secondary-100" }
+    ]
+}
