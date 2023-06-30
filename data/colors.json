@@ -1,11 +1,7 @@
 {
-    "primary": [
-        { "primary-100": "#A9DEF9"}
-    ],
-    "secondary": [
-        { "secondary-100": "#FCF6BD" }
-    ],
-    "success": [
-        { "success-100": "#D0F4DE" }
+    "colors": [
+        { "label"   : "primary",    "value" : "#A9DEF9" },
+        { "label"   : "secondary",  "value" : "#FCF6BD" },
+        { "label"   : "tertiary",   "value" : "#D0F4DE" }
     ]
 }
